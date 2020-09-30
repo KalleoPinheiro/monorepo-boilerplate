@@ -1,0 +1,16 @@
+{
+  "name": "Zup Dashboards",
+  "short_name": "ZupDash",
+  "icons": [
+    {
+      "src": "/img/star.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "Smart dashboarts to your company",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
